@@ -67,5 +67,5 @@
   <img style="width: 40px; height: 40px;" title="Linux/Linux Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img style="width: 40px; height: 40px;" title="Hyper-V" src="https://www.masterdc.com/mydata/myuploads/2020/11/Hyper-V.svg" />
   <img style="width: 40px; height: 40px;" title="KVM" src="https://www.bacula.lat/wp-content/uploads/2019/05/logo_lvm.png" />
-  <img style="width: 40px; height: 40px;" title="Oracle VirtualBox" src="https://e7.pngegg.com/pngimages/997/157/png-clipart-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-thumbnail.png" />
+  <img style="width: 40px; height: 40px;" title="Oracle VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
 </p>
