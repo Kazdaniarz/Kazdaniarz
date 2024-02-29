@@ -2,9 +2,6 @@
 **Kazdaniarz/Kazdaniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- Languages and Tools icons -->
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <h1 align="center">Hi 👋, I'm Kazdaniarz</h1>
 <h3 align="center">My real name is Jacek Konczalski, and I am a young and passionate freelance, self-taught programmer, and web developer.</h3>
 <h3 align="center">Although I say I am self-taught, I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
@@ -32,35 +29,36 @@
 
 <h3 align="left">Front-End Web Developing Tools:</h3>
 <p align="left">
-  <i class="devicon-html5-plain-wordmark"></i>
-  <i class="devicon-css3-plain-wordmark"></i>
-  <i class="devicon-javascript-plain"></i>
-  <i class="devicon-jquery-plain-wordmark"></i>
-  <i class="devicon-react-original-wordmark"></i>
-  <i class="devicon-sass-original"></i>
-  <i class="devicon-bootstrap-plain-wordmark"></i>
-  <i class="devicon-wordpress-plain-wordmark"></i>
-  <i style="background-image: url('https://static.thenounproject.com/png/4147235-200.png'); size 25px; background-size: cover;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+  <img src="https://www.bsitsoftware.com/images/ajax/ajax_frameworks_BSIT_Software_Services_Web_And_App_Development_Company_In_India.png" />
 </p>
 <h3 align="left">Backend Web Developing Tools:</h3>
 <p align="left">
-  <i class="devicon-php-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </p>
 <h3 align="left">Data managing Tools:</h3>
 <p align="left">
-  <i class="devicon-mysql-plain-wordmark"></i>
-  <i class="devicon-postgresql-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 </p>
 <h3 align="left">Object-oriented Programming Tools:</h3>
 <p align="left">
-  <i class="devicon-cplusplus-plain"></i>
-  <i class="devicon-python-plain-wordmark"></i>
-  <i class="devicon-bash-plain"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </p>
 <h3 align="left">Embedded Software:</h3>
 <p align="left">
-  <i class="devicon-arduino-plain-wordmark"></i>
-  <i class="devicon-raspberrypi-plain-wordmark"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 </p>
 <h3 align="left">Os Tools:</h3>
 <p align="left">
