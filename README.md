@@ -2,21 +2,24 @@
 **Kazdaniarz/Kazdaniarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- Languages and Tools icons -->
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <h1 align="center">Hi 👋, I'm Kazdaniarz</h1>
-<h3 align="center">My real name is Jacek Konczalski and I am young and passionate freelance, self-taught programmer and web developer.</h3>
-<h3 align="center">Tho I say I am self-taught, I do have engineering degree in embedded programming and done some courses and certificates.</h3>
+<h3 align="center">My real name is Jacek Konczalski, and I am a young and passionate freelance, self-taught programmer, and web developer.</h3>
+<h3 align="center">Although I say I am self-taught, I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
 
 - 😄 Pronouns: He/Him
   
-- 🌱 I’m currently excersise my **Web Developer** and **English** skills
+- 🌱 Currently, I’m exercising my **Web Developer** and **English** skills
 
-- 🌱 I'm organize my **linkedin** and **github** profiles (including **old projects**)
+- 🌱 I am organizing my **LinkedIn** and **GitHub** profiles (including **old projects**)
 
-- ⚡ Hobbies: I'm kind of geek and tabletop games nerd. I passionatly love fighting with my 3D Printer.
+- ⚡ Hobbies: I'm a bit of a geek and a tabletop games nerd. I am passionately in love with tinkering with my 3D printer.
 
 - 💬 You can ask me about: **html, css, js, jQuery, php, mysql, python, c++, linux based systems, server administration** and much more!
 
-- 👯 I’m looking for new IT oriented job **OPEN FOR OFFERS!**
+- 👯 I’m looking for new IT-oriented job **OPEN FOR OFFERS!**
 
 - 📫 Contact: **jkonczalski@proton.me**
 
@@ -27,5 +30,43 @@
 <a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacek konczalski" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<h3 align="left">Front-End Web Developing Tools:</h3>
+<p align="left">
+  <i class="devicon-html5-plain-wordmark"></i>
+  <i class="devicon-css3-plain-wordmark"></i>
+  <i class="devicon-javascript-plain"></i>
+  <i class="devicon-jquery-plain-wordmark"></i>
+  <i class="devicon-react-original-wordmark"></i>
+  <i class="devicon-sass-original"></i>
+  <i class="devicon-bootstrap-plain-wordmark"></i>
+  <i class="devicon-wordpress-plain-wordmark"></i>
+  <i style="background-image: url('https://static.thenounproject.com/png/4147235-200.png'); size 25px; background-size: cover;"></i>
+</p>
+<h3 align="left">Backend Web Developing Tools:</h3>
+<p align="left">
+  <i class="devicon-php-plain"></i>
+</p>
+<h3 align="left">Data managing Tools:</h3>
+<p align="left">
+  <i class="devicon-mysql-plain-wordmark"></i>
+  <i class="devicon-postgresql-plain-wordmark"></i>
+</p>
+<h3 align="left">Object-oriented Programming Tools:</h3>
+<p align="left">
+  <i class="devicon-cplusplus-plain"></i>
+  <i class="devicon-python-plain-wordmark"></i>
+  <i class="devicon-bash-plain"></i>
+</p>
+<h3 align="left">Embedded Software:</h3>
+<p align="left">
+  <i class="devicon-arduino-plain-wordmark"></i>
+  <i class="devicon-raspberrypi-plain-wordmark"></i>
+</p>
+<h3 align="left">Os Tools:</h3>
+<p align="left">
+  - Windows and Windows Server
+  - Linux based Desktop and Server
+  - Hyper-V Virtualization
+  - KVM Virtualization
+  - Oracle Virtualbox Virtualization
+</p>
