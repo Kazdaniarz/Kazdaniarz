@@ -6,11 +6,11 @@
 <h3 align="center">My real name is Jacek Konczalski, and I am a young and passionate freelance, self-taught programmer, and web developer.</h3>
 <h3 align="center">Although I say I am self-taught, I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
 
-- 😄 Pronouns: He/Him
+- 😸 Pronouns: He/Him
   
 - 🌱 Currently, I’m exercising my **Web Developer** and **English** skills
 
-- 🌱 I am organizing my **LinkedIn** and **GitHub** profiles (including **old projects**)
+- 🐢 I am organizing my **LinkedIn** and **GitHub** profiles (including **old projects**)
 
 - ⚡ Hobbies: I'm a bit of a geek and a tabletop games nerd. I am passionately in love with tinkering with my 3D printer.
 
@@ -18,9 +18,10 @@
 
 - 👯 I’m looking for new IT-oriented job **OPEN FOR OFFERS!**
 
-- 📫 Contact: **jkonczalski@proton.me**
+- 📧 Contact: **jkonczalski@proton.me**
 
-<br>
+- ➿ <a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6">**LinkedIn**</a>
+
 <br>
 <br>
 
@@ -80,10 +81,4 @@
   <img style="width: 40px; height: 40px;" title="RPG Maker MV" src="https://victorenginescripts.files.wordpress.com/2015/11/mvlogo21.png" />
   <img style="width: 40px; height: 40px;" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
   <img style="width: 40px; height: 40px;" title="3D Builder" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/3D_Builder.svg/revision/latest?cb=20170928220843" />
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center" style="display: flex; flex-direction: row;">
-<a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6" target="blank"><img align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacek konczalski" height="40" width="40" /></a>
-<a href="mailto:jkonczalski@proton.me" target="blank"><img align="center" title="jkonczalski@proton.me" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" alt="email" height="40" width="40" /></a>
 </p>
