@@ -29,42 +29,43 @@
 
 <h3 align="left">Front-End Web Developing Tools:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /> 
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://www.bsitsoftware.com/images/ajax/ajax_frameworks_BSIT_Software_Services_Web_And_App_Development_Company_In_India.png" />
+  <img style="width: 40px; height: 40px;" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img style="width: 40px; height: 40px;" title="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /> 
+  <img style="width: 40px; height: 40px;" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="SCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img style="width: 40px; height: 40px;" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="Ajax" src="https://www.bsitsoftware.com/images/ajax/ajax_frameworks_BSIT_Software_Services_Web_And_App_Development_Company_In_India.png" />
 </p>
 <h3 align="left">Backend Web Developing Tools:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img style="width: 40px; height: 40px;" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </p>
 <h3 align="left">Data managing Tools:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+  <img style="width: 40px; height: 40px;" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 </p>
 <h3 align="left">Object-oriented Programming Tools:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img style="width: 40px; height: 40px;" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
+  <img style="width: 40px; height: 40px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img style="width: 40px; height: 40px;" title="Batch File" src="https://img.favpng.com/21/23/25/batch-file-cmd-exe-batch-processing-dos-png-favpng-TbPhhyjGHcHrwWj2qi0KKcVFP.jpg" />
 </p>
 <h3 align="left">Embedded Software:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-  <img style="width: 25px; height: 25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img style="width: 40px; height: 40px;" title="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img style="width: 40px; height: 40px;" title="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 </p>
 <h3 align="left">Os Tools:</h3>
 <p align="left">
-  - Windows and Windows Server
-  - Linux based Desktop and Server
-  - Hyper-V Virtualization
-  - KVM Virtualization
-  - Oracle Virtualbox Virtualization
+  <img style="width: 40px; height: 40px;" title="Windows/Windows Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <img style="width: 40px; height: 40px;" title="Linux/Linux Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img style="width: 40px; height: 40px;" title="Hyper-V" src="https://www.masterdc.com/mydata/myuploads/2020/11/Hyper-V.svg" />
+  <img style="width: 40px; height: 40px;" title="KVM" src="https://www.bacula.lat/wp-content/uploads/2019/05/logo_lvm.png" />
+  <img style="width: 40px; height: 40px;" title="Oracle VirtualBox" src="https://e7.pngegg.com/pngimages/997/157/png-clipart-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-thumbnail.png" />
 </p>
