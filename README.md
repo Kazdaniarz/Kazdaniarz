@@ -6,7 +6,14 @@
 <h3 align="center">My real name is Jacek Konczalski, and I am a young and passionate freelance, self-taught programmer, and web developer.</h3>
 <h3 align="center">Although I say I am self-taught, I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
 
+<br>
+<br>
+
 - 😸 Pronouns: He/Him
+
+- 🏨 Country: Poland (Ireland soon™️)
+
+- 👅 Languages: Polish, English, simple German
   
 - 🌱 Currently, I’m exercising my **Web Developer** and **English** skills
 
@@ -18,9 +25,9 @@
 
 - 👯 I’m looking for new IT-oriented job **OPEN FOR OFFERS!**
 
-- 📧 Contact: **jkonczalski@proton.me**
+- 📧 Email: <a href="mailto:jkonczalski@proton.me">**jkonczalski@proton.me**</a>
 
-- ➿ <a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6">**LinkedIn**</a>
+- ➿ LinkedIn: <a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6">**Jacek Konczalski**</a>
 
 <br>
 <br>
@@ -70,7 +77,7 @@
 </p>
 <h4 align="left">Graphical Tools:</h4>
 <p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 40px; height: 40px;" title="Figma" src="https://static-00.iconduck.com/assets.00/figma-icon-1024x1024-mvfh9xsk.png" />
+  <img style="width: 40px; height: 40px;" title="Figma" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" />
   <img style="width: 40px; height: 40px;" title="Adobe Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
   <img style="width: 40px; height: 40px;" title="Paint.net" src="https://static.wikia.nocookie.net/logopedia/images/4/4e/Paint.NET_2014_Icon.png/revision/latest?cb=20220510141516" />
 </p>
