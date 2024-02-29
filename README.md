@@ -54,7 +54,7 @@
   <img style="width: 40px; height: 40px;" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
   <img style="width: 40px; height: 40px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img style="width: 40px; height: 40px;" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img style="width: 40px; height: 30px;" title="Batch File" src="https://raw.githubusercontent.com/github/explore/58ff7d84bcc6dff955c67ddba1f702c793dc670d/topics/batch-file/batch-file.png" />
+  <img style="width: 40px; height: 40px;" title="Batch File" src="https://raw.githubusercontent.com/github/explore/58ff7d84bcc6dff955c67ddba1f702c793dc670d/topics/batch-file/batch-file.png" />
 </p>
 <h3 align="left">Embedded Software:</h3>
 <p align="left" style="display: flex; flex-direction: row;">
