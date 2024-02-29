@@ -22,10 +22,7 @@
 
 <br>
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacek konczalski" height="30" width="40" /></a>
-</p>
+<br>
 
 <h3 align="left">Check out my skills:</h3>
 <h4 align="left">Front-End Web Developing Tools:</h4>
@@ -44,13 +41,13 @@
 <p align="left" style="display: flex; flex-direction: row;">
   <img style="width: 40px; height: 40px;" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </p>
-<h4 align="left">Data managing Tools:</h4>
+<h4 align="left">Data Managing Tools:</h4>
 <p align="left" style="display: flex; flex-direction: row;">
   <img style="width: 40px; height: 40px;" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img style="width: 40px; height: 40px;" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img style="width: 40px; height: 40px;" title="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
 </p>
-<h4 align="left">Object-oriented Programming Tools:</h4>
+<h4 align="left">Object-Oriented Programming Tools:</h4>
 <p align="left" style="display: flex; flex-direction: row;">
   <img style="width: 40px; height: 40px;" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
   <img style="width: 40px; height: 40px;" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -63,10 +60,30 @@
   <img style="width: 40px; height: 40px;" title="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
 </p>
 <h4 align="left">Os and Virtualization Tools:</h4>
-<p align="left">
+<p align="left" style="display: flex; flex-direction: row;">
   <img style="width: 40px; height: 40px;" title="Windows/Windows Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img style="width: 40px; height: 40px;" title="Linux/Linux Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img style="width: 40px; height: 40px;" title="Hyper-V" src="https://www.masterdc.com/mydata/myuploads/2020/11/Hyper-V.svg" />
   <img style="width: 40px; height: 40px;" title="KVM" src="https://www.bacula.lat/wp-content/uploads/2019/05/logo_lvm.png" />
   <img style="width: 40px; height: 40px;" title="Oracle VirtualBox" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" />
+</p>
+<h4 align="left">Graphical Tools:</h4>
+<p align="left" style="display: flex; flex-direction: row;">
+  <img style="width: 40px; height: 40px;" title="Figma" src="https://static-00.iconduck.com/assets.00/figma-icon-1024x1024-mvfh9xsk.png" />
+  <img style="width: 40px; height: 40px;" title="Adobe Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" />
+  <img style="width: 40px; height: 40px;" title="Paint.net" src="https://static.wikia.nocookie.net/logopedia/images/4/4e/Paint.NET_2014_Icon.png/revision/latest?cb=20220510141516" />
+</p>
+<h4 align="left">Other Tools:</h4>
+<p align="left" style="display: flex; flex-direction: row;">
+  <img style="width: 40px; height: 40px;" title="GameMaker Studio 2" src="https://static.macupdate.com/products/37306/l/gamemaker-studio-2-logo.png?v=1618309357" />
+  <img style="width: 40px; height: 40px;" title="Unreal Engine 5" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" />
+  <img style="width: 40px; height: 40px;" title="RPG Maker MV" src="https://victorenginescripts.files.wordpress.com/2015/11/mvlogo21.png" />
+  <img style="width: 40px; height: 40px;" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
+  <img style="width: 40px; height: 40px;" title="3D Builder" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/3D_Builder.svg/revision/latest?cb=20170928220843" />
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center" style="display: flex; flex-direction: row;">
+<a href="https://www.linkedin.com/in/jacek-konczalski-2684232b6" target="blank"><img align="center" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacek konczalski" height="40" width="40" /></a>
+<a href="mailto:jkonczalski@proton.me" target="blank"><img align="center" title="jkonczalski@proton.me" src="https://seeklogo.com/images/M/mail-icon-logo-28FE0635D0-seeklogo.com.png" alt="email" height="40" width="40" /></a>
 </p>
