@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kazdaniarz</h1>
 <h3 align="center">My real name is Jacek Konczalski, and I am a young and passionate freelance, self-taught programmer, and web developer.</h3>
-<h3 align="center">Although I say I am self-taught, but I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
+<h3 align="center">Although I say I am self-taught, I do have an engineering degree in embedded programming and have completed some courses and obtained certificates.</h3>
 
 <br>
 <br>
