@@ -66,10 +66,3 @@ I am a graduate engineer with a versatile background spanning software developme
 <div align="center">
   <h3>📫 Looking for a versatile engineer, web developer, or IT administrator? Let's connect!</h3>
 </div>
-<p align="left" style="display: flex; flex-direction: row;">
-  <img style="width: 40px; height: 40px;" title="GameMaker Studio 2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0H9VpOhjf78-nHiCq0VVa3PSN7yphffuQS6hg3GyNZ3J_XuC1Lwqus-F1jDfL9GcJbA&usqp=CAU" />
-  <img style="width: 40px; height: 40px;" title="Unreal Engine 5" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" />
-  <img style="width: 40px; height: 40px;" title="RPG Maker MV" src="https://victorenginescripts.files.wordpress.com/2015/11/mvlogo21.png" />
-  <img style="width: 40px; height: 40px;" title="Blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" />
-  <img style="width: 40px; height: 40px;" title="3D Builder" src="https://static.wikia.nocookie.net/logopedia/images/8/8a/3D_Builder.svg/revision/latest?cb=20170928220843" />
-</p>
