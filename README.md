@@ -8,7 +8,7 @@
 
 ### 🚀 Graduate Engineer | Freelance Full-Stack Developer & IT Support | IT Educator 🇵🇱
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacek-konczalski-2684232b6)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacek-konczalski)
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:kazdan53@protonmail.com)
 [![Open For Offers](https://img.shields.io/badge/Status-Open%20For%20Offers-success?style=for-the-badge)](mailto:kazdan53@protonmail.com)
 
