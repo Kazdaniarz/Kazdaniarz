@@ -60,7 +60,7 @@ I am a graduate engineer with a versatile background spanning software developme
 
 ## 📊 My GitHub Stats
 
-| [![Jacek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kazdaniarz&show_icons=true&theme=visual_studio_code&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Jacek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kazdaniarz&theme=visual-studio-code)](https://github.com/danielcranney/readme-generator) |
+| [![Jacek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kazdaniarz&show_icons=true&theme=visual_studio_code&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 | --- | --- |
 
 ---
