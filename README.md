@@ -58,12 +58,6 @@ I am a graduate engineer with a versatile background spanning software developme
 
 ---
 
-## 📊 My GitHub Stats
-
-[![Kazdaniarz's GitHub stats](https://github-stats-extended.vercel.app/api?username=kazdaniarz)](https://github.com/stats-organization/github-stats-extended)
-
----
-
 <div align="center">
   <h3>📫 Looking for a versatile engineer, web developer, or IT administrator? Let's connect!</h3>
 </div>
